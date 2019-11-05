@@ -1,0 +1,3 @@
+[submodule "themes/hugo-minimal-theme"]
+	path = themes/hugo-minimal-theme
+	url = https://github.com/calintat/minimal.git
