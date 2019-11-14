@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.com/project/core-strategy/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/project/best-practices/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/project/content-audits/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/project/content-page-redesign/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/best-practices/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/content/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/content-strategy/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/design/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/evidence-driven/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/information-architecture/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/leadership/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/project/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/team-building/</loc>
+  </url>
+  
+</urlset>

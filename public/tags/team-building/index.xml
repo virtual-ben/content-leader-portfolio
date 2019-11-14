@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>team-building on Ben Paulus</title>
+    <link>http://example.com/tags/team-building/</link>
+    <description>Recent content in team-building on Ben Paulus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.com/tags/team-building/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Developed a core content strategy for product documentation</title>
+      <link>http://example.com/project/core-strategy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/project/core-strategy/</guid>
+      <description>The Challenge As a newly minted Content Strategy team, we needed a shared vision of our purpose, and the purpose of the Information Development department at McAfee. What was it, exactly, that our department did? What principles could we, as content developers, use to guide our decisions? We needed a core content strategy statement!
+The Response It took us three hour-long remote sessions to craft our core content strategy mission statement.</description>
+    </item>
+    
+  </channel>
+</rss>

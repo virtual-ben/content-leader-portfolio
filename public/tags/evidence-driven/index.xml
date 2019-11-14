@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>evidence-driven on Ben Paulus</title>
+    <link>http://example.com/tags/evidence-driven/</link>
+    <description>Recent content in evidence-driven on Ben Paulus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.com/tags/evidence-driven/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Measured installation content quality</title>
+      <link>http://example.com/project/content-audits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/project/content-audits/</guid>
+      <description>The Challenge As part of the cross-departmental effort to improve the customer installation experience, we had to make sure the installation content we published to docs.mcafee.com was good content, and that any content changes improved the overall quality of our content.
+The Response Taking a page from Kristina Halvorson and Melissa Rach&amp;rsquo;s &amp;ldquo;Content Strategy for the Web,&amp;rdquo; we determined the quality areas we wanted to measure for our content.</description>
+    </item>
+    
+  </channel>
+</rss>

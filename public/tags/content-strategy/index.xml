@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>content-strategy on Ben Paulus</title>
+    <link>http://example.com/tags/content-strategy/</link>
+    <description>Recent content in content-strategy on Ben Paulus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.com/tags/content-strategy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Developed a core content strategy for product documentation</title>
+      <link>http://example.com/project/core-strategy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/project/core-strategy/</guid>
+      <description>The Challenge As a newly minted Content Strategy team, we needed a shared vision of our purpose, and the purpose of the Information Development department at McAfee. What was it, exactly, that our department did? What principles could we, as content developers, use to guide our decisions? We needed a core content strategy statement!
+The Response It took us three hour-long remote sessions to craft our core content strategy mission statement.</description>
+    </item>
+    
+    <item>
+      <title>Established best practices documentation process</title>
+      <link>http://example.com/project/best-practices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/project/best-practices/</guid>
+      <description>The Challenge At McAfee, best practices were spread throughout our product documentation, blog posts, technical articles, and marketing content. Our stakeholders wanted a single location where internal and external customers could find the latest best practices.
+In addition, because our product documentation authors were embedded in our development teams, our product documentation had great access to information on new features, but did a poor job speaking to the realities of customer&amp;rsquo;s complex environments.</description>
+    </item>
+    
+    <item>
+      <title>Measured installation content quality</title>
+      <link>http://example.com/project/content-audits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/project/content-audits/</guid>
+      <description>The Challenge As part of the cross-departmental effort to improve the customer installation experience, we had to make sure the installation content we published to docs.mcafee.com was good content, and that any content changes improved the overall quality of our content.
+The Response Taking a page from Kristina Halvorson and Melissa Rach&amp;rsquo;s &amp;ldquo;Content Strategy for the Web,&amp;rdquo; we determined the quality areas we wanted to measure for our content.</description>
+    </item>
+    
+  </channel>
+</rss>
