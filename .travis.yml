@@ -9,7 +9,7 @@ before script:
 - hugo
 
 script:
-- aws s3 sync public/ s3://benjaminpaulus.com --acl public-read --delete
+- aws s3 sync s3://benjaminpaulus.com --acl public-read --delete
 - aws cloudfront create-invalidation --distribution-id E2N0RFZUN0WZ4P --paths '/*'
 
 branches:
