@@ -1,6 +1,6 @@
 baseURL = "https://www.benjaminpaulus.com/"
 languageCode = "en-us"
-title = "Ben Paulus Portfolio & Resume"
+title = "Ben Paulus"
 theme = "hugo-minimal-theme"
 # disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
@@ -29,7 +29,7 @@ googleAnalytics = ""
 
 [[menu.main]]
     url = "/project/"
-    name = "Past Projects"
+    name = "Recent Projects"
     weight = 3
 
 # [[menu.main]]

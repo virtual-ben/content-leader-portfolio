@@ -14,13 +14,13 @@ We provide screenshots as part of that content. However, the maximum size of tho
 
 We needed more room for graphics in our web pages. While we were at it, we could also make minor changes to increase the usability of those articles. 
 
-<p align=center><img src="../redesign-before.png" style="max-width:500px;max-height:300px" alt="Sample web article before redesign"></p>
+<p align=center><img src="../redesign-before.png" style="max-width:750px;max-height:450px" alt="Sample web article before redesign"></p>
 
 ### The Response
 
 I partnered with UX designer Erin Sunahara to redesign the content panes of our web articles. We iterated through several designs, before settling on a set of requirements for our site host and vendor. 
 
-<p align=center><img src="../requirements.PNG" style="max-width:500px;max-height:300px" alt="Web page redesign requirements"></p>
+<p align=center><img src="../requirements.PNG" style="max-width:750px;max-height:450px" alt="Web page redesign requirements"></p>
 
 We walked through the requirements with the web developers, making sure each item was clearly understood. The changes were published to our staging server, and we reviewed the implementations, calling out items that didn't meet the requirements.  
 
@@ -35,4 +35,4 @@ Once the bits had settled, we had achieved the following site improvements:
 - Moved the seldom-populated See-also section to below each article
 - Streamlined user feedback options
 
-<p align=center><img src="../redesign-after.png" style="max-width:500px;max-height:300px" alt="Sample web article after redesign"></p>
+You can see an example of the new layout here: [How Threat Prevention Works](https://docs.mcafee.com/bundle/endpoint-security-10.7.x-threat-prevention-product-guide-windows/page/GUID-F8B7D20E-C7CB-4C1A-A01F-4B89EC6555ED.html)
