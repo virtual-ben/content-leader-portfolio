@@ -2,83 +2,83 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ben Paulus</title>
-    <link>http://example.com/tags/</link>
+    <link>https://examplewww.benjaminpaulus.com/tags/</link>
     <description>Recent content in Tags on Ben Paulus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://examplewww.benjaminpaulus.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>best-practices</title>
-      <link>http://example.com/tags/best-practices/</link>
+      <link>https://examplewww.benjaminpaulus.com/tags/best-practices/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/best-practices/</guid>
+      <guid>https://examplewww.benjaminpaulus.com/tags/best-practices/</guid>
       <description></description>
     </item>
     
     <item>
       <title>content</title>
-      <link>http://example.com/tags/content/</link>
+      <link>https://examplewww.benjaminpaulus.com/tags/content/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/content/</guid>
+      <guid>https://examplewww.benjaminpaulus.com/tags/content/</guid>
       <description></description>
     </item>
     
     <item>
       <title>content-strategy</title>
-      <link>http://example.com/tags/content-strategy/</link>
+      <link>https://examplewww.benjaminpaulus.com/tags/content-strategy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/content-strategy/</guid>
+      <guid>https://examplewww.benjaminpaulus.com/tags/content-strategy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>design</title>
-      <link>http://example.com/tags/design/</link>
+      <link>https://examplewww.benjaminpaulus.com/tags/design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/design/</guid>
+      <guid>https://examplewww.benjaminpaulus.com/tags/design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>evidence-driven</title>
-      <link>http://example.com/tags/evidence-driven/</link>
+      <link>https://examplewww.benjaminpaulus.com/tags/evidence-driven/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/evidence-driven/</guid>
+      <guid>https://examplewww.benjaminpaulus.com/tags/evidence-driven/</guid>
       <description></description>
     </item>
     
     <item>
       <title>information-architecture</title>
-      <link>http://example.com/tags/information-architecture/</link>
+      <link>https://examplewww.benjaminpaulus.com/tags/information-architecture/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/information-architecture/</guid>
+      <guid>https://examplewww.benjaminpaulus.com/tags/information-architecture/</guid>
       <description></description>
     </item>
     
     <item>
       <title>leadership</title>
-      <link>http://example.com/tags/leadership/</link>
+      <link>https://examplewww.benjaminpaulus.com/tags/leadership/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/leadership/</guid>
+      <guid>https://examplewww.benjaminpaulus.com/tags/leadership/</guid>
       <description></description>
     </item>
     
     <item>
       <title>team-building</title>
-      <link>http://example.com/tags/team-building/</link>
+      <link>https://examplewww.benjaminpaulus.com/tags/team-building/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/team-building/</guid>
+      <guid>https://examplewww.benjaminpaulus.com/tags/team-building/</guid>
       <description></description>
     </item>
     
