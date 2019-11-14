@@ -1,5 +1,5 @@
 ---
-title: About me
+title: Resume
 description: Content strategist, information architect, and program manager
 ---
 
