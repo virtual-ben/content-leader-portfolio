@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Ben Paulus Portfolio &amp; Resume</title>
+    <title>Tags on Ben Paulus</title>
     <link>https://www.benjaminpaulus.com/tags/</link>
-    <description>Recent content in Tags on Ben Paulus Portfolio &amp; Resume</description>
+    <description>Recent content in Tags on Ben Paulus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -79,6 +79,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.benjaminpaulus.com/tags/team-building/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>top-tasks</title>
+      <link>https://www.benjaminpaulus.com/tags/top-tasks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.benjaminpaulus.com/tags/top-tasks/</guid>
       <description></description>
     </item>
     

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>content on Ben Paulus Portfolio &amp; Resume</title>
+    <title>content on Ben Paulus</title>
     <link>https://www.benjaminpaulus.com/tags/content/</link>
-    <description>Recent content in content on Ben Paulus Portfolio &amp; Resume</description>
+    <description>Recent content in content on Ben Paulus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -28,6 +28,15 @@ The Response It took us three hour-long remote sessions to craft our core conten
       <guid>https://www.benjaminpaulus.com/project/best-practices/</guid>
       <description>The Challenge At McAfee, best practices were spread throughout our product documentation, blog posts, technical articles, and marketing content. Our stakeholders wanted a single location where internal and external customers could find the latest best practices.
 In addition, because our product documentation authors were embedded in our development teams, our product documentation had great access to information on new features, but did a poor job speaking to the realities of customer&amp;rsquo;s complex environments.</description>
+    </item>
+    
+    <item>
+      <title>Implemented top tasks</title>
+      <link>https://www.benjaminpaulus.com/project/top-tasks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.benjaminpaulus.com/project/top-tasks/</guid>
+      <description>The Challenge One of the challenges content authors face is knowing what tasks and content resonate with our customers. For our McAfee ePolicy Orchestrator (McAfee ePO) content, we wanted to find out what information was most valuable to our customers. We already had the usual infrormation about our website: page-views, bounce-rates, time-on-page, but we wanted to know if that information accurately reflected our customer&amp;rsquo;s needs and wants, and if there were any content gaps.</description>
     </item>
     
     <item>
