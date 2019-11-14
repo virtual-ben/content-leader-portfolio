@@ -35,4 +35,4 @@ Once the bits had settled, we had achieved the following site improvements:
 - Moved the seldom-populated See-also section to below each article
 - Streamlined user feedback options
 
-You can see an example of the new layout here: [How Threat Prevention Works](https://docs.mcafee.com/bundle/endpoint-security-10.7.x-threat-prevention-product-guide-windows/page/GUID-F8B7D20E-C7CB-4C1A-A01F-4B89EC6555ED.html)
+You can see an example of the new layout here: [How Threat Prevention Works](https://docs.mcafee.com/bundle/endpoint-security-10.7.x-threat-prevention-product-guide-windows/page/GUID-F8B7D20E-C7CB-4C1A-A01F-4B89EC6555ED.html).
