@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ben Paulus</title>
+    <title>Ben Paulus Portfolio &amp; Resume</title>
     <link>https://www.benjaminpaulus.com/</link>
-    <description>Recent content on Ben Paulus</description>
+    <description>Recent content on Ben Paulus Portfolio &amp; Resume</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -52,7 +52,7 @@ We needed more room for graphics in our web pages. While we were at it, we could
     </item>
     
     <item>
-      <title>About me</title>
+      <title>Resume</title>
       <link>https://www.benjaminpaulus.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
