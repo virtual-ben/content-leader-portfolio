@@ -3,7 +3,7 @@ title: Resume
 description: Content strategist, information architect, and program manager
 ---
 
-I'm a content strategist and information architect looking to lead a distributed content team or help an organization implement a comprehensive content strategy. I believe in empowering employees and end users, and that every touchpoint is an opportunity for dialog, connection, and exchange. I approach content from a customer-focused and evidence driven methodology, leveraging design thinking to solve thorny content challenges, delight customers, and increase end-user autonomy. \
+I'm a content strategist and information architect looking to lead a distributed content team and help an organization implement a comprehensive content strategy. I believe in empowering employees and end users, and that every touchpoint is an opportunity for dialog, connection, and exchange. I approach content from a customer-focused and evidence driven methodology, leveraging design thinking to solve thorny content challenges, delight customers, and increase end-user autonomy. \
 
 ### Specialties
 Content strategy and analysis, process development, customer jpourney mapping, UX ersearch, team-building, improving communications, writing, editing, indexing and taxonomy, content management systems and migrations, project management, software development processes (including Lean, Kanban, Agile and Scrum), DITA, XML, Git, Markdown, XMetaL, Acrolinx, Tridion Docs.

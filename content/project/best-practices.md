@@ -1,6 +1,6 @@
 ---
-title: "Established best practices documentation process"
-description: "Created and implemented a process for transforming field recommendations into fully documentated best practices"
+title: "Established a best practices documentation process"
+description: "Created and implemented a process for transforming field recommendations into fully-documented best practices"
 # repo: "#" # delete this line if you want a blog-like page
 tags: ["content-strategy", "content", "best-practices"]
 weight: 1
@@ -25,7 +25,7 @@ We created a working definition for "best practice," set up latest recommendatio
 - Threat landscape information
 - Configuration instructions to combat specific threats
 
-All of these items are information that needs to come from the field. Typically, this information comes from technical support engineers, sales engineers, and McAfee Labs. We needed to collect, promote, and share the expertise of these groups.
+All these items are information that needs to come from the field. Typically, this information comes from technical support engineers, sales engineers, and McAfee Labs. We needed to collect, promote, and share the expertise of these groups.
 
 #### Collecting recommendations
 Because the threat landscape is constantly changing, we needed a light-weight and speedy process for turniong the tribal knowledge of our sales engineers, technical support engineers, and other field employees into actionable best practices for our customers. 
@@ -42,6 +42,6 @@ We needed a process to vet the material that was posted to our latest recommenda
 ### The Benefits
 To borrow an analogy from the restaurant industry, our monthly best practices meeting opened lines of communication between the front of the house (sales engineers, account managers, technical support engineers), and the back of the house (development engineers, content authors). Increasing the amount of contact between these groups enablex us to respond better to customer needs.
 
-Customers receive timely recommendations on the changing threat landscape. The most helpful and most valuable recommendations graduate to best practices, and are included in our product documentation.
+Customers receive timely recommendations on the changing threat landscape. The most helpful and most valuable recommendations graduate to best practices and are included in our product documentation.
 
 
